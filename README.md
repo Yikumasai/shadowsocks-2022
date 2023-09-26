@@ -5,6 +5,8 @@
 
 ## Installation
 ```
+curl -OL https://github.com/Yikumasai/shadowsocks-2022/raw/main/2022script.sh
+或者
 curl -OL https://github.com/loyess/2022/raw/main/2022script.sh
 chmod +x 2022script.sh
 ./2022script.sh
